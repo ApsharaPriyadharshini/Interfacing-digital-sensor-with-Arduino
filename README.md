@@ -1,10 +1,10 @@
 # Interfacing-digital-sensor-with-Arduino
 Creating a circuit using Arduino uno interfacing with a digital sensor -PIR Sensor
 ## INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
-## DATE :
-## NAME :
-## ROLLNUMBER :
-## DEPARTMENT
+## DATE :27/07/2026
+## NAME : Apshara Priyadharshini M
+## ROLLNUMBER : 212225040026
+## DEPARTMENT : CSE
 
 ## THEORY :
 Arduino UNO The Uno is a microcontroller board based on the ATmega328P. It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz quartz crystal, a USB connection, a power jack, an ICSP header and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started. Technical specifications of Arduino UNO : Microcontroller ATmega168/328 Microcontroller ATmega168/328 Operating Voltage 5V Input Voltage (recommended) 7-12V Input Voltage (limits) 6-20V Digital I/O Pins 14 (of which 6 provide PWM output) Analog Input Pins 6 DC Current per I/O Pin 40 mA DC Current for 3.3V Pin 50 mA Flash Memory 16 KB (ATmega168) or 32 KB (ATmega328) of which 2 KB used by boot loader SRAM 1 KB (ATmega168) or 2 KB (ATmega328) EEPROM 512 bytes (ATmega168) or 1 KB (ATmega328) Clock Speed 16 MHz
