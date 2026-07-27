@@ -12,7 +12,7 @@ Arduino UNO The Uno is a microcontroller board based on the ATmega328P. It has 1
 ## PIN DIAGRAM FOR ATMEGA 328
 <img width="597" height="391" alt="image" src="https://github.com/user-attachments/assets/64152e7d-7c80-4635-81c2-8c2dfdf0a735" />
 <img width="544" height="337" alt="image" src="https://github.com/user-attachments/assets/ea5eaf52-c955-4222-8443-4d5e51be098b" />
-## PROCEDURE
+## PROCEDURE 
 Open tinker cad account
 
 Select Arduino uno , bread board , digital input and digital output
