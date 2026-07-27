@@ -23,5 +23,9 @@ Develop the program and compile it for any errors
 Check the simulation
 ## PROGRAM
 OUTPUT OF SIMULATION :
-<img width="717" height="693" alt="Screenshot 2026-07-27 114934" src="https://github.com/user-attachments/assets/7205882a-0af0-4117-9e80-f1a290a93d17" />
+<img width="897" height="575" alt="image" src="https://github.com/user-attachments/assets/827a829f-1b13-4e75-aeeb-fb9142076a1a" />
+<img width="1045" height="680" alt="image" src="https://github.com/user-attachments/assets/c442c0e6-3055-4437-9d50-a76c92d2f39e" />
+<img width="1043" height="670" alt="image" src="https://github.com/user-attachments/assets/6ec9e5fb-83be-4cc8-a6fb-e32287c37166" />
+
+
 
